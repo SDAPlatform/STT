@@ -1,10 +1,7 @@
-# What is this : 
-
-
-
-
-
-# Installing:
+# Technologies:
+* 'pyaudio'
+* 'whisper'
+* 'wave'
 
 
 
